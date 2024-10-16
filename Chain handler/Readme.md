@@ -47,7 +47,7 @@ El programa utiliza las siguientes llamadas al sistema en MIPS para entrada y sa
 - syscall código 4: Imprimir cadena de salida
 - syscall código 8: Leer cadena de entrada
 
-##Ejemplos de Uso
+## Ejemplos de Uso
 
 Entrada: len HOLA
 Salida: 4
